@@ -27,7 +27,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssol0319)](https://solved.ac/ssol0319)
 
 ### Contact
-<a href="https://silversound-coding.tistory.com/"><img src="https://img.shields.io/badge/Blog-00AAFF?style=flat-square&logo=Micro.blog&logoColor=white&link=https://silversound-coding.tistory.com/"/></a> 
+<a href="https://vero.wiki"><img src="https://img.shields.io/badge/Blog-00AAFF?style=flat-square&logo=Micro.blog&logoColor=white&link=https://silversound-coding.tistory.com/"/></a> 
 <a href="mailto:sol031988@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sol031988@gmail.com"/></a>
 
 ### Informations
