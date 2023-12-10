@@ -1,5 +1,5 @@
-![reversal](https://capsule-render.vercel.app/api?type=transparent&text=Cyma-s&fontAlign=50&fontSize=50&theme=tokyonight)
----
+𝐝𝐢𝐥𝐢𝐠𝐞 𝐞𝐭 𝐪𝐮𝐚𝐝 𝐯𝐢𝐬 𝐟𝐚𝐜
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCyma-s%2Fhit-counter&count_bg=%2300AAFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Tech Stack 
 #### Languages
