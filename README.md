@@ -1,21 +1,20 @@
 𝐝𝐢𝐥𝐢𝐠𝐞 𝐞𝐭 𝐪𝐮𝐚𝐝 𝐯𝐢𝐬 𝐟𝐚𝐜
 
-Hi! My name is Eunsol Kim 😎  
-
-I highly value collaborating with my coworkers to explore various solutions rather than settling on a single obvious answer.
-
-I firmly believe that sharing knowledge within the team is crucial for improving our service development. Whenever I grasp a new technology, I make sure to document it comprehensively and share it with my colleagues.
+Backend software engineer with a focus on building scalable systems and fostering healthy engineering culture.
+Passionate about helping teams develop a shared knowledge base, align on best practices, and continuously refine how they work.
+Known for taking initiative in driving collaboration and clarity — because strong teams build strong systems!
 
 ## Tech Stack 
 ### Tools
+* Ktor
 * Spring Boot
 * Spring Data JPA
+
 ### Languages
-* C
-* Python
+* Kotlin
 * Java
-
-
+* Python
+* C
 
 ## Algorithm
 [![Solved.ac
